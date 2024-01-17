@@ -1,4 +1,4 @@
-Sure, here are concise README.md descriptions for both Project 1 (Simple Chatbot) and Project 2 (Basic Q & A Bot for College Admission):
+
 
 ### Project 1: Simple Chatbot
 
