@@ -51,8 +51,8 @@ class AdmissionBot:
             response = self.respond_to_question(user_input)
             print(f"Bot: {response}")
 
-            # Uncomment the line below if you want to implement context remembering
-            # self.remember_context(user_input)
+           # #  to implement context remembering
+            # # self.remember_context(user_input)
 
 if __name__ == "__main__":
     admission_bot = AdmissionBot()
